@@ -8,7 +8,7 @@ O Jogo do Número Secreto desafia o jogador a adivinhar um número gerado aleato
 
 Essa aplicação foi desenvolvida como parte do curso da **ONE (Oracle Next Education) + Alura**, com o objetivo de consolidar conhecimentos em desenvolvimento web.
 
-Acesse a aplicação:  
+🎮 **Teste a aplicação online:** [Clique aqui para jogar!](https://jogo-eight-rose-57.vercel.app/)
 
 ## Funcionalidades
 
