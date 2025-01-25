@@ -6,6 +6,10 @@ Um jogo interativo desenvolvido com HTML, CSS e JavaScript, onde o jogador tenta
 
 O Jogo do Número Secreto desafia o jogador a adivinhar um número gerado aleatoriamente entre 1 e 10. A cada tentativa, o jogador recebe feedback se o número chutado é maior, menor ou igual ao número secreto. Ao acertar, é exibida uma mensagem com o número de tentativas usadas. O jogo também permite reiniciar para jogar novamente.
 
+Essa aplicação foi desenvolvida como parte do curso da **ONE (Oracle Next Education) + Alura**, com o objetivo de consolidar conhecimentos em desenvolvimento web.
+
+Acesse a aplicação:  
+
 ## Funcionalidades
 
 - 🔢 **Entrada de número:** Campo para digitar um número entre 1 e 10.
