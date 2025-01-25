@@ -9,7 +9,8 @@ O Jogo do Número Secreto desafia o jogador a adivinhar um número gerado aleato
 Essa aplicação foi desenvolvida como parte do curso da **ONE (Oracle Next Education) + Alura**, com o objetivo de consolidar conhecimentos em desenvolvimento web.
 
 🎮 **Teste a aplicação online:** [Clique aqui para jogar!](https://jogo-eight-rose-57.vercel.app/)
-📜 **Certificação:** [Certificado Alura](./ Amanda Ianes da Fonseca - Curso Lógica de programação_ explore funções e listas - Alura.pdf)
+📜 **Certificação:** [Certificado Alura](./Amanda%20Ianes%20da%20Fonseca%20-%20Curso%20L%C3%B3gica%20de%20programa%C3%A7%C3%A3o_%20explore%20fun%C3%A7%C3%B5es%20e%20listas%20-%20Alura.pdf)
+
 
 ## Funcionalidades
 
